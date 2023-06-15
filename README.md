@@ -1,4 +1,5 @@
-# Palmer_Penguins_Analysis
+# Palmer_Penguins_DataAnalysis
+
 **Analysis of Palmer Penguins Dataset**
 
 **Objective:**
