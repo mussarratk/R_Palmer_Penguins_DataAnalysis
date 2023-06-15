@@ -1,4 +1,4 @@
-# Palmer_Penguins_DataAnalysis
+## Palmer_Penguins_DataAnalysis
 
 **Analysis of Palmer Penguins Dataset**
 
